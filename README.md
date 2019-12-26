@@ -1,2 +1,2 @@
-# Sz-mol-g-p
+# Számológép
 super calculator
